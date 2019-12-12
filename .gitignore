@@ -1,0 +1,6 @@
+#ignore all folders
+/*
+
+!/.gitignore
+!/index.html
+!/style.css
