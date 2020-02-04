@@ -7,5 +7,3 @@
     $ sudo chmod -R 755 404/
 
     $ cd 404/
-
-test
